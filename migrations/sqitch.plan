@@ -2,3 +2,4 @@
 %project=videoGames
 
 init 2021-04-08T12:00:11Z Etudiant O'clock <student@teleporter> # initialisation
+api/insert 2021-04-08T13:02:29Z Etudiant O'clock <student@teleporter> # ajout d'une fonctin d'insertion
